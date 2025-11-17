@@ -52,7 +52,8 @@ int main()
 
 
 ## OUTPUT
-<img width="777" height="622" alt="Screenshot from 2025-10-19 17-45-44" src="https://github.com/user-attachments/assets/23123c16-f31e-4dfa-8a57-c2bd84310f64" />
+<img width="1032" height="687" alt="image" src="https://github.com/user-attachments/assets/d4313bf1-fb08-48f7-bf52-a08cf179ef5a" />
+
 
 
 # RESULT:
